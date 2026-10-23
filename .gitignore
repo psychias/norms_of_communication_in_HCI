@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private raw exports must never be committed (they contain Prolific IDs, IP addresses and geolocation)
+raw/
+*Qualtrics*
+*PROLIFIC*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.synctex.gz

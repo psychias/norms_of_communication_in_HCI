@@ -1,0 +1,356 @@
+participant_id,age,gender,education,native_language
+15,20,female,high school / GED,other
+16,50,female,"4-year degree (BA, BS)",English
+17,36,male,high school / GED,English
+18,46,male,"4-year degree (BA, BS)",English
+19,23,female,some college,English
+20,33,male,master's degree,English
+21,35,female,high school / GED,English
+22,65,female,high school / GED,English
+23,52,female,high school / GED,English
+24,25,female,master's degree,English
+25,29,male,some college,English
+26,60,female,some college,English
+27,46,female,master's degree,other
+28,65,male,"4-year degree (BA, BS)",English
+29,39,non-binary / third gender,high school / GED,English
+30,52,female,"4-year degree (BA, BS)",other
+31,32,female,master's degree,other
+32,55,male,high school / GED,English
+33,30,male,"4-year degree (BA, BS)",English
+34,31,female,"4-year degree (BA, BS)",English
+35,27,female,"4-year degree (BA, BS)",English
+36,23,female,"4-year degree (BA, BS)",English
+37,23,male,"4-year degree (BA, BS)",English
+38,35,male,"4-year degree (BA, BS)",English
+39,55,female,"4-year degree (BA, BS)",English
+40,40,male,some college,English
+41,56,female,high school / GED,English
+42,39,male,high school / GED,English
+43,32,female,"4-year degree (BA, BS)",English
+44,41,female,master's degree,English
+45,34,male,some college,English
+46,34,male,"4-year degree (BA, BS)",English
+47,61,female,master's degree,English
+48,30,female,master's degree,English
+49,33,female,some college,English
+50,31,female,"4-year degree (BA, BS)",English
+51,44,female,master's degree,English
+52,39,female,high school / GED,English
+53,32,female,"4-year degree (BA, BS)",English
+54,66,female,high school / GED,English
+55,23,female,2-year degree (associate),English
+56,64,female,high school / GED,English
+57,32,male,master's degree,English
+58,33,male,some college,English
+59,54,female,master's degree,English
+60,24,female,"4-year degree (BA, BS)",other
+61,37,female,"4-year degree (BA, BS)",English
+62,46,male,"4-year degree (BA, BS)",English
+63,53,female,some college,English
+64,75,male,some college,English
+65,41,female,some college,English
+66,27,female,2-year degree (associate),English
+67,45,male,master's degree,English
+68,61,male,master's degree,English
+69,24,female,"4-year degree (BA, BS)",English
+70,52,male,"4-year degree (BA, BS)",English
+71,46,female,master's degree,English
+72,47,male,"4-year degree (BA, BS)",English
+73,35,female,some college,English
+74,40,male,some college,English
+75,41,male,master's degree,English
+76,46,female,doctoral degree,English
+77,66,male,master's degree,English
+78,33,male,some college,English
+79,57,male,doctoral degree,English
+80,46,female,"4-year degree (BA, BS)",English
+81,34,male,doctoral degree,English
+82,49,male,master's degree,English
+83,64,female,high school / GED,English
+84,48,female,"4-year degree (BA, BS)",English
+85,37,female,"4-year degree (BA, BS)",English
+86,32,male,"4-year degree (BA, BS)",English
+87,47,female,"4-year degree (BA, BS)",English
+88,46,male,some college,English
+89,39,female,"4-year degree (BA, BS)",English
+90,41,female,"4-year degree (BA, BS)",English
+91,49,female,"4-year degree (BA, BS)",English
+92,43,female,"4-year degree (BA, BS)",other
+93,22,male,master's degree,English
+94,35,male,high school / GED,English
+95,32,female,some college,English
+96,53,female,some college,English
+97,52,female,"4-year degree (BA, BS)",English
+98,23,male,"4-year degree (BA, BS)",English
+99,54,female,"4-year degree (BA, BS)",English
+100,41,male,master's degree,English
+101,44,female,"4-year degree (BA, BS)",English
+102,53,male,"4-year degree (BA, BS)",English
+103,32,male,master's degree,English
+104,29,female,master's degree,English
+105,39,male,master's degree,English
+106,30,female,master's degree,English
+107,68,female,"4-year degree (BA, BS)",English
+108,60,female,"4-year degree (BA, BS)",English
+109,31,male,master's degree,English
+110,42,male,high school / GED,English
+111,49,male,"4-year degree (BA, BS)",English
+112,54,female,high school / GED,English
+113,40,female,some college,English
+114,52,male,master's degree,English
+115,33,female,doctoral degree,English
+116,34,female,high school / GED,English
+117,58,male,some college,English
+118,70,male,"4-year degree (BA, BS)",English
+119,26,female,professional degree,English
+120,32,male,"4-year degree (BA, BS)",English
+122,42,male,"4-year degree (BA, BS)",English
+123,28,male,master's degree,English
+124,69,male,high school / GED,English
+125,29,female,"4-year degree (BA, BS)",English
+126,54,female,high school / GED,English
+127,35,male,high school / GED,English
+128,65,male,high school / GED,English
+129,25,female,"4-year degree (BA, BS)",English
+130,71,male,master's degree,English
+131,39,male,high school / GED,English
+132,31,female,master's degree,English
+133,32,female,doctoral degree,English
+134,24,male,"4-year degree (BA, BS)",English
+135,62,female,high school / GED,English
+136,69,male,master's degree,English
+137,29,male,"4-year degree (BA, BS)",English
+138,36,male,"4-year degree (BA, BS)",English
+139,63,male,high school / GED,English
+140,31,female,"4-year degree (BA, BS)",English
+141,48,male,high school / GED,English
+142,59,male,2-year degree (associate),English
+143,57,female,2-year degree (associate),English
+144,42,female,high school / GED,English
+145,34,female,master's degree,English
+146,53,female,"4-year degree (BA, BS)",other
+147,61,male,"4-year degree (BA, BS)",English
+148,42,female,2-year degree (associate),English
+149,51,male,some college,English
+150,53,female,"4-year degree (BA, BS)",English
+151,35,male,some college,English
+152,59,female,master's degree,English
+153,63,male,high school / GED,English
+154,43,female,"4-year degree (BA, BS)",other
+155,26,male,master's degree,English
+156,54,female,"4-year degree (BA, BS)",English
+157,34,male,high school / GED,English
+158,62,male,high school / GED,English
+159,45,male,some college,English
+160,45,female,"4-year degree (BA, BS)",English
+161,47,female,some college,English
+162,66,female,high school / GED,English
+163,24,female,high school / GED,English
+164,39,male,some college,English
+165,31,male,"4-year degree (BA, BS)",English
+166,62,female,some college,English
+167,49,male,high school / GED,English
+168,54,female,master's degree,English
+169,80,female,high school / GED,English
+170,66,female,master's degree,English
+171,42,male,"4-year degree (BA, BS)",English
+172,56,male,less than high school,English
+173,27,female,"4-year degree (BA, BS)",English
+174,29,male,high school / GED,English
+175,55,male,doctoral degree,English
+176,29,female,master's degree,English
+177,37,female,"4-year degree (BA, BS)",English
+178,33,male,"4-year degree (BA, BS)",English
+179,51,female,professional degree,English
+180,38,male,master's degree,English
+181,36,female,"4-year degree (BA, BS)",English
+182,38,female,"4-year degree (BA, BS)",English
+183,41,male,"4-year degree (BA, BS)",English
+184,44,female,"4-year degree (BA, BS)",English
+185,28,male,professional degree,English
+186,29,female,"4-year degree (BA, BS)",English
+187,34,female,high school / GED,English
+188,54,female,"4-year degree (BA, BS)",English
+189,36,female,high school / GED,English
+190,32,male,master's degree,English
+191,67,male,"4-year degree (BA, BS)",English
+192,69,male,master's degree,English
+193,46,male,2-year degree (associate),English
+194,22,male,high school / GED,English
+195,52,female,"4-year degree (BA, BS)",English
+196,66,female,doctoral degree,English
+197,28,female,"4-year degree (BA, BS)",English
+198,46,female,"4-year degree (BA, BS)",English
+199,60,male,high school / GED,English
+200,35,female,master's degree,English
+201,40,female,some college,English
+202,35,prefer not to say,less than high school,English
+203,31,male,"4-year degree (BA, BS)",English
+204,31,male,high school / GED,English
+205,48,male,"4-year degree (BA, BS)",English
+206,48,female,some college,English
+207,54,female,master's degree,English
+208,34,male,high school / GED,English
+209,45,female,"4-year degree (BA, BS)",English
+210,33,female,"4-year degree (BA, BS)",English
+211,32,female,high school / GED,English
+212,48,male,"4-year degree (BA, BS)",English
+213,47,male,some college,English
+214,36,female,"4-year degree (BA, BS)",English
+215,55,female,2-year degree (associate),English
+216,27,female,high school / GED,English
+217,55,male,some college,English
+218,35,female,master's degree,English
+219,34,male,professional degree,English
+220,35,female,some college,other
+221,29,female,"4-year degree (BA, BS)",English
+222,32,female,high school / GED,English
+223,32,male,"4-year degree (BA, BS)",English
+224,50,female,"4-year degree (BA, BS)",English
+225,43,male,less than high school,English
+226,57,female,some college,English
+227,21,female,some college,English
+228,32,female,master's degree,English
+229,38,female,"4-year degree (BA, BS)",English
+230,64,male,some college,English
+231,63,female,high school / GED,English
+232,29,non-binary / third gender,less than high school,English
+233,32,female,"4-year degree (BA, BS)",English
+234,30,female,"4-year degree (BA, BS)",English
+235,50,male,some college,English
+236,27,female,master's degree,English
+237,48,male,"4-year degree (BA, BS)",English
+238,40,female,some college,English
+239,42,male,some college,English
+240,32,female,some college,other
+241,45,male,"4-year degree (BA, BS)",English
+242,59,male,high school / GED,English
+243,52,male,doctoral degree,English
+244,41,female,master's degree,English
+245,46,female,"4-year degree (BA, BS)",English
+246,48,male,"4-year degree (BA, BS)",English
+249,26,female,master's degree,English
+250,71,male,2-year degree (associate),English
+251,31,male,"4-year degree (BA, BS)",English
+252,37,male,"4-year degree (BA, BS)",English
+253,25,male,some college,English
+254,58,female,some college,English
+255,54,female,high school / GED,English
+256,59,male,high school / GED,English
+257,41,female,"4-year degree (BA, BS)",English
+258,27,female,"4-year degree (BA, BS)",English
+259,64,female,doctoral degree,other
+260,35,male,"4-year degree (BA, BS)",English
+261,21,female,"4-year degree (BA, BS)",English
+262,34,male,"4-year degree (BA, BS)",English
+263,28,non-binary / third gender,"4-year degree (BA, BS)",English
+264,27,female,some college,English
+265,51,male,high school / GED,English
+266,35,female,some college,English
+267,37,female,some college,other
+268,43,male,some college,English
+269,44,male,"4-year degree (BA, BS)",English
+270,63,male,"4-year degree (BA, BS)",English
+271,32,female,doctoral degree,English
+272,59,female,"4-year degree (BA, BS)",English
+273,51,female,some college,English
+274,45,female,some college,English
+275,38,female,master's degree,English
+276,45,male,high school / GED,English
+277,53,female,"4-year degree (BA, BS)",English
+278,47,male,"4-year degree (BA, BS)",English
+279,22,male,"4-year degree (BA, BS)",English
+280,54,female,"4-year degree (BA, BS)",English
+281,42,male,high school / GED,English
+282,61,male,2-year degree (associate),English
+283,39,female,doctoral degree,other
+284,53,female,"4-year degree (BA, BS)",English
+285,42,female,high school / GED,English
+286,55,female,"4-year degree (BA, BS)",English
+287,53,male,"4-year degree (BA, BS)",English
+288,30,female,some college,English
+289,56,female,high school / GED,English
+290,61,female,"4-year degree (BA, BS)",other
+291,71,male,"4-year degree (BA, BS)",English
+292,53,female,high school / GED,English
+293,24,female,"4-year degree (BA, BS)",other
+294,54,female,some college,English
+295,36,female,high school / GED,English
+296,34,female,"4-year degree (BA, BS)",English
+297,44,male,some college,English
+298,59,female,"4-year degree (BA, BS)",English
+299,24,female,"4-year degree (BA, BS)",English
+300,31,male,some college,English
+301,43,male,professional degree,English
+302,48,male,2-year degree (associate),English
+303,33,female,master's degree,English
+304,27,male,"4-year degree (BA, BS)",English
+305,46,female,master's degree,English
+306,67,female,high school / GED,English
+307,46,female,"4-year degree (BA, BS)",English
+308,47,male,high school / GED,English
+309,32,female,doctoral degree,English
+310,45,female,master's degree,other
+311,41,female,"4-year degree (BA, BS)",English
+312,32,male,"4-year degree (BA, BS)",English
+313,25,female,"4-year degree (BA, BS)",English
+314,64,female,doctoral degree,English
+315,32,prefer not to say,master's degree,English
+316,41,male,high school / GED,English
+317,42,female,"4-year degree (BA, BS)",English
+318,38,female,"4-year degree (BA, BS)",other
+319,66,female,"4-year degree (BA, BS)",English
+320,41,female,"4-year degree (BA, BS)",English
+321,35,male,high school / GED,English
+322,33,female,master's degree,English
+323,34,male,high school / GED,English
+324,34,male,"4-year degree (BA, BS)",English
+325,50,female,some college,English
+326,50,male,"4-year degree (BA, BS)",English
+327,35,female,"4-year degree (BA, BS)",English
+328,65,female,"4-year degree (BA, BS)",English
+329,58,female,some college,English
+330,35,female,"4-year degree (BA, BS)",English
+331,49,male,some college,English
+332,36,female,"4-year degree (BA, BS)",English
+333,64,female,"4-year degree (BA, BS)",English
+334,26,male,"4-year degree (BA, BS)",English
+335,36,male,"4-year degree (BA, BS)",English
+336,33,female,master's degree,English
+337,20,male,some college,English
+338,45,female,high school / GED,English
+339,42,female,"4-year degree (BA, BS)",English
+340,43,male,some college,English
+341,31,female,master's degree,English
+342,46,female,2-year degree (associate),English
+343,57,male,high school / GED,English
+344,59,male,some college,English
+345,44,male,2-year degree (associate),English
+346,55,female,"4-year degree (BA, BS)",English
+347,47,female,master's degree,English
+348,64,male,"4-year degree (BA, BS)",English
+349,25,female,some college,English
+350,44,male,professional degree,English
+351,43,male,"4-year degree (BA, BS)",English
+352,41,female,master's degree,English
+353,24,female,"4-year degree (BA, BS)",English
+354,51,female,master's degree,English
+355,35,male,master's degree,English
+356,33,male,some college,English
+357,74,male,2-year degree (associate),English
+358,27,female,master's degree,other
+359,61,female,"4-year degree (BA, BS)",English
+360,56,female,high school / GED,English
+361,69,male,high school / GED,English
+362,30,male,doctoral degree,English
+363,61,female,"4-year degree (BA, BS)",English
+364,67,female,2-year degree (associate),English
+365,31,male,master's degree,other
+366,40,male,"4-year degree (BA, BS)",English
+367,39,male,high school / GED,English
+368,62,female,high school / GED,English
+369,65,male,master's degree,English
+370,28,male,"4-year degree (BA, BS)",English
+371,60,female,master's degree,English
+372,25,female,"4-year degree (BA, BS)",English

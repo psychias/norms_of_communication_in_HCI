@@ -1,0 +1,356 @@
+participant_id,condition_label,agent,skin,stake,response
+15,human | stake:high | skin:low,human,low,high,He seems not responsible and careless
+16,human | stake:high | skin:low,human,low,high,He doesn't check info
+17,human | stake:high | skin:low,human,low,high,It is natural to ask an employee fir assistance
+18,human | stake:high | skin:low,human,low,high,"he seems to take things for granted rather than simply double-checking, which wouldn't have taken very long"
+19,human | stake:high | skin:low,human,low,high,He clearly does not double check things nor make amends for his mistakes; he seems to be rather nonchalant and doesnt appear to be bothered about making mistakes
+20,human | stake:high | skin:low,human,low,high,there is departure information on screens
+21,human | stake:high | skin:low,human,low,high,I feel that Ken doesn't care too much about this job so he is just doing minimum he can and he does not care about the consequences about how well he performs.
+22,human | stake:high | skin:low,human,low,high,I would want to make sure my departure gate was the correct number and no misunderstanding
+23,human | stake:high | skin:low,human,low,high,I wouldn't trust the accuracy of the information given by Ken
+24,human | stake:high | skin:low,human,low,high,"Ken lacks attention to detail, should always double check these things even if you're sure"
+25,human | stake:high | skin:low,human,low,high,I would check after getting the answer from ken to make sure it was still the same
+26,human | stake:high | skin:low,human,low,high,"I would use other sources, usually the monitor"
+27,human | stake:high | skin:low,human,low,high,i often only trust the information display for my flights.
+28,human | stake:high | skin:low,human,low,high,He proved to be unreliable
+29,human | stake:high | skin:low,human,low,high,It would depend on the whether I know Ken is going to give me the wrong information. But because I'm taking this study and I have previous awareness that Ken has provided the wrong information upon being asked this question I'm now extremely unlikely to enquire about the departure gate from Ken.
+30,human | stake:high | skin:low,human,low,high,I normally would look at the information provided on the flight information boards myself.
+31,human | stake:high | skin:low,human,low,high,"It’s not rocket science to find that information yourself, there’s information screens everywhere!!"
+32,human | stake:high | skin:low,human,low,high,He is unreliable
+33,human | stake:high | skin:low,human,low,high,He can't be trusted to get it right
+34,human | stake:high | skin:low,human,low,high,I would be worried a mistake could happen again
+35,human | stake:high | skin:low,human,low,high,Ken hasn’t been able to give reliable information so I could miss my flight.
+36,human | stake:high | skin:low,human,low,high,"I likely wouldn’t have this previous context or knowledge before asking Ken, and I am most likely to find out the gate number myself rather than asking someone."
+37,human | stake:high | skin:low,human,low,high,Likely as he works in the airport in a customer facing role
+38,human | stake:high | skin:low,human,low,high,I would normally look at other sources such as information boards
+39,human | stake:high | skin:low,human,low,high,I wouldnt trust Ken to give me the correct answer. He clearly cant be bothered to check.
+40,human | stake:high | skin:low,human,low,high,"I would still be willing to ask Ken, even though he made an error in the past. Because of that previous error I feel as though he would be more diligent moving forward. Additionally, he's there to provide support so if I needed help, I would ask."
+41,human | stake:high | skin:low,human,low,high,"We would check the board, probably many times to keep up to date."
+42,human | stake:high | skin:low,human,low,high,online gate information more accurate
+43,human | stake:high | skin:low,human,low,high,"I would prefer to check the boards which show the information, as I am able to check the regularly and see it with my own eyes. I would ask, but I would always want to follow up with the boards just for peace of mind."
+44,human | stake:high | skin:low,human,low,high,I dont trust he is accurate
+45,human | stake:high | skin:low,human,low,high,I don't want misinformation on my flight journeys
+46,human | stake:high | skin:low,human,low,high,Ken appears to assume the correct answer rather than checking and looking for the correct answer
+47,human | stake:high | skin:low,human,low,high,I always double check any information and dont rely on one source
+48,human | stake:high | skin:low,human,low,high,Ken probably is not fully committed on the job
+49,human | stake:high | skin:low,human,low,high,i feel like i would get a more accurate answer from a human
+50,human | stake:high | skin:low,human,low,high,Because he is a member of staff so i assume he would have correct information
+51,human | stake:high | skin:low,human,low,high,i would keep an eye on the boards and also on my airline's app
+52,human | stake:high | skin:low,human,low,high,Ken has shown he doesn't check information before giving it out
+53,human | stake:high | skin:low,human,low,high,I would prefer more accurate information sources
+54,human | stake:high | skin:low,human,low,high,It would seem that Ken doesn't check for changes in information and therefore cannot be trusted
+55,human | stake:high | skin:low,human,low,high,Wouldnt trust. him
+56,human | stake:high | skin:low,human,low,high,He doesn’t seem to reliable
+57,human | stake:high | skin:low,human,low,high,"Dosent hurt to ask, but gates/times change all the time, and it should always be down to the person flying to check the boards for any updates."
+58,human | stake:high | skin:low,human,low,high,he works there
+59,human | stake:high | skin:low,human,low,high,Ken does not tske the time to check
+60,human | stake:high | skin:low,human,low,high,It is difficult to trust employees because they might be careless
+61,human | stake:high | skin:low,human,low,high,mainly because he already gave out incorrect information before
+62,human | stake:high | skin:low,human,low,high,Ken did the correct job - it was Ms. Miller who did not double check
+63,human | stake:high | skin:low,human,low,high,he made a simple error that doesnt mean to say hes incompetent
+64,human | stake:high | skin:low,human,low,high,Why bother some-one when the notice boards show the answer
+65,human | stake:high | skin:low,human,low,high,I wouldnt trust him to give me the right information
+66,human | stake:high | skin:low,human,low,high,I would just try to find my own way from airport signs.
+67,human | stake:high | skin:low,human,low,high,"NO at all, I dont trust him"
+68,human | stake:high | skin:low,human,low,high,I would probably use the departure board instead as these are updated with the actual gate.
+69,human | stake:low | skin:low,human,low,low,not good advice
+70,human | stake:low | skin:low,human,low,low,I usually check on the board anyway
+71,human | stake:low | skin:low,human,low,low,Ken is unreliable.
+72,human | stake:low | skin:low,human,low,low,I would never do that if electronic displays are available. There is no point in checking with staff unless information cannot be found elsewhere
+73,human | stake:low | skin:low,human,low,low,He might not check the database and give me the wrong info again so I wouldn't trust him
+74,human | stake:low | skin:low,human,low,low,well i would probably seek multiple sources for the information to be sure
+75,human | stake:low | skin:low,human,low,low,Ken seems not interested and not proactive and too laid back.
+76,human | stake:low | skin:low,human,low,low,I would check on a noticeboard
+77,human | stake:low | skin:low,human,low,low,Whilst I think Ken is reliable I would also check other sources for back up especially ones which are dynamically updated
+78,human | stake:low | skin:low,human,low,low,"His job is to provide this exact sort of information, and in the lady's case, he gave incorrect information. At an airport this can be of enormous consequence to many people at once. Complacency is no substitute for 'speed', and Ken was complacent here. Surely some time throughout the day he'd been made aware of departure gate changes? It just makes me think that he's not interested in that 'human decency' of endeavouring to help somebody out, go above and beyond etc. I wouldn't be taking any information from Ken, and would actively avoid him."
+79,human | stake:low | skin:low,human,low,low,"Ken is a bit lazy and unreliable! Perhaps he's learnt his lesson, but  it would be safer to get the information direct from the departures board!"
+80,human | stake:low | skin:low,human,low,low,I trust humans more than a board
+81,human | stake:low | skin:low,human,low,low,I would consider Ken to be unreliable
+82,human | stake:low | skin:low,human,low,low,"It all depends on who is on the information desk, however, I would request it in writing. Anyone on the desk can only provide you with the information listed on their system."
+83,human | stake:low | skin:low,human,low,low,I feel that there are enough information boards around airports to check which gate flights are boarding from and the information is always up to date
+84,human | stake:low | skin:low,human,low,low,He has not provided the correct information before and just acted on instinct.
+85,human | stake:low | skin:low,human,low,low,"I would rather check current information, given Ken's previous mistake."
+86,human | stake:low | skin:low,human,low,low,I could ask Ken to confirm on the system as he has access
+87,human | stake:low | skin:low,human,low,low,I would just look at the board.
+88,human | stake:low | skin:low,human,low,low,"I'll ask, if he's there, then confirm as this is important"
+89,human | stake:low | skin:low,human,low,low,I think there was an error and this is based on me knowing the information. I think I'd check the answer.
+90,human | stake:low | skin:low,human,low,low,"I check on boards and apps not with humans, Ken is too fallible"
+91,human | stake:low | skin:low,human,low,low,Ken has shown himself to not have sufficient knowledge
+92,human | stake:low | skin:low,human,low,low,He provided wrong answer so not trustworthy as he doesn't double check before providing an info
+93,human | stake:low | skin:low,human,low,low,ken doesnt seem to care enough to double check information before giving it out
+94,human | stake:low | skin:low,human,low,low,because he shows neglagents at his job instead of actually checking database he assumed everything would be the same as usual
+95,human | stake:low | skin:low,human,low,low,"If I did not know Ken and their apparent lack of attention to detail, I would happily ask and rely on Ken for information. The confidence and speed that the response was given enforces trust. If I had known Ken is unreliable, I wouldn't ask Ken."
+96,human | stake:low | skin:low,human,low,low,"If I know he's not checking the actual flight details and just guessing, then I will make checks elsewhere"
+97,human | stake:low | skin:low,human,low,low,He's not trustworthy.
+98,human | stake:low | skin:low,human,low,low,hes not reliable
+99,human | stake:low | skin:low,human,low,low,I would just look at a departure board so you know the information should be up to date.
+100,human | stake:low | skin:low,human,low,low,Ken does not care about his role
+101,human | stake:low | skin:low,human,low,low,I would just use the board rather than ask someone
+102,human | stake:low | skin:low,human,low,low,"I wouls assume if it was after this incident Ken would now know to check departures from other source, if it was prior to this incident Ken is equally likely to have given the correct information than the incorrect information, either way i would have no problem asking Ken if he was available to talk to"
+103,human | stake:low | skin:low,human,low,low,"If I am unsure anyway, I might as well get a second opinion."
+104,human | stake:low | skin:low,human,low,low,not trusted to get things correct
+105,human | stake:low | skin:low,human,low,low,i wouldnt trust the answer and would rely on information being elsewhere
+106,human | stake:low | skin:low,human,low,low,Because he will tell what I need to know
+107,human | stake:low | skin:low,human,low,low,Gave out information on assumption. Did not validate his assumption.
+108,human | stake:low | skin:low,human,low,low,"I would assume there would be a queue at the information desk and I'd much rather look at the departure board information which should be updated regularly, than stand in a queue unnecessarily"
+109,human | stake:low | skin:low,human,low,low,Because Ken never really confirmed the actual  gate for flight departure
+110,human | stake:low | skin:low,human,low,low,"It depends, if I didn't know Ken had been wrong in the past then I likely would ask him. If I did know he had been wrong then I probably wouldn't"
+111,human | stake:low | skin:low,human,low,low,"I would want to double check the departure board when I got there anyway, whether or not I knew about Ken's previous mistake because it's true these things can change"
+112,human | stake:low | skin:low,human,low,low,Because I think Ken does the minimum expected for his job - if he's asked I think it's important if he's unsure or it might have changed he should of checked or at least said it was subject to change
+113,human | stake:low | skin:low,human,low,low,I would want to know and keep my mind at ease
+114,human | stake:low | skin:low,human,low,low,I like to ask staff if possible
+115,human | stake:low | skin:low,human,low,low,"I prefer to check departure boards myself - they are easier to find and more reliable than airport staff/helpdesk staff. I am extremely unlikely to ask Ken for assistance because of this, not because of him specifically."
+116,human | stake:low | skin:low,human,low,low,because he works there and i need help
+117,human | stake:low | skin:low,human,low,low,I usually check the departures board
+118,human | stake:low | skin:low,human,low,low,Ken in my opinion is honest
+119,human | stake:low | skin:low,human,low,low,I rarely ever approach airport staff for information regarding such details.
+120,human | stake:low | skin:low,human,low,low,"If I have the prior knowledge of Ken's error, there's no way I'd approach him for clarification. However, if I didn't, asking a staff member seems a reasonable approach."
+122,human | stake:high | skin:high,human,high,high,"He is most likely to have up to date information, but in this case made an assumption rather than checking"
+123,human | stake:high | skin:high,human,high,high,Because Ken is unreliable and I may miss my flight if I ask him.
+124,human | stake:high | skin:high,human,high,high,Does not double check info
+125,human | stake:high | skin:high,human,high,high,"I don't usually ask for information from airline employees as they can get things wrong, I usually rely on the information boards instead"
+126,human | stake:high | skin:high,human,high,high,The information is on the departures board!
+127,human | stake:high | skin:high,human,high,high,Untrustworthy person
+128,human | stake:high | skin:high,human,high,high,Ken failed to check for updates
+129,human | stake:high | skin:high,human,high,high,Prefer to use information boards as opposed to speaking to people.
+130,human | stake:high | skin:high,human,high,high,"I would prefer to be in control myself, rather than relying on others I would want to be able to find the information myself and be in control over it. I would ask for help only if necessary."
+131,human | stake:high | skin:high,human,high,high,He's proven he's untrustworthy and not accurate
+132,human | stake:high | skin:high,human,high,high,I just sooner would check the board and not ask a staff member about this. Seems easier and more efficient.
+133,human | stake:high | skin:high,human,high,high,He needs better training
+134,human | stake:high | skin:high,human,high,high,I would use the information boards abiut flights and gates as they are the most up to date rsther than customer service such as ken
+135,human | stake:high | skin:high,human,high,high,I would always check on the screen for flight information
+136,human | stake:high | skin:high,human,high,high,the boards are generally accurate and easy to understand
+137,human | stake:high | skin:high,human,high,high,thats the most suresrt  place to find the answer
+138,human | stake:high | skin:high,human,high,high,I would refer to Ken as he is human but validate the information using the departure boards which are updated frequently.
+139,human | stake:high | skin:high,human,high,high,"i want to be sure i get my flight,whilst i feel for ken he should have checked the database"
+140,human | stake:high | skin:high,human,high,high,I would ask someone but also keep an eye on the information boards as information may change after the fact
+141,human | stake:high | skin:high,human,high,high,Because its a double check after checking the boards etc
+142,human | stake:high | skin:high,human,high,high,I always check flights boards and only interact with a rep. if there is an issue.
+143,human | stake:high | skin:high,human,high,high,Ken didn't check for any changes and gave out incorrect information earlier
+144,human | stake:high | skin:high,human,high,high,"i would consult the information board, and only if i was unsure would i ask at the desk."
+145,human | stake:high | skin:high,human,high,high,I would always try the direct source before a person
+146,human | stake:high | skin:high,human,high,high,This can depend on a situation at the time
+147,human | stake:high | skin:high,human,high,high,I have experience of using both but always the board first and only sometimes check with staff
+148,human | stake:high | skin:high,human,high,high,HE DIDN'T CHECK
+149,human | stake:high | skin:high,human,high,high,I would use the departure boards as I would rather that than to stand in a queue
+150,human | stake:high | skin:high,human,high,high,He doesn't check things and assumes.
+151,human | stake:high | skin:high,human,high,high,i would probably check multiple sources
+152,human | stake:high | skin:high,human,high,high,I can keep track using the info boards.
+153,human | stake:high | skin:high,human,high,high,I would normally be more dependant on the terminal digital screens for this information
+154,human | stake:high | skin:high,human,high,high,"as a professional, i prefer to rely on primary data sources like official airport gate boards or mobile apps for real-time updates"
+155,human | stake:high | skin:high,human,high,high,Ken is helpful and usually knolwedgeable but errors can happen especially with last mminute changes.
+156,human | stake:high | skin:high,human,high,high,I would always check the board as that gives most up to date information without human error
+157,human | stake:high | skin:high,human,high,high,Ken got it wrong and didn't do his job properly by checking the database
+158,human | stake:high | skin:high,human,high,high,"There are so many other ways to check the gate without asking another person, who I certainly would not trust to be accurate."
+159,human | stake:high | skin:high,human,high,high,He gave wrong info
+160,human | stake:high | skin:high,human,high,high,It's a silly question really- am I assuming I have prior knowledge of kens failings?
+161,human | stake:high | skin:high,human,high,high,He doesn't check on the system
+162,human | stake:high | skin:high,human,high,high,He can't be trusted
+163,human | stake:high | skin:high,human,high,high,I trust my own judgement better
+164,human | stake:high | skin:high,human,high,high,Because that's Ken's job.
+165,human | stake:high | skin:high,human,high,high,I'd use the boards
+166,human | stake:high | skin:high,human,high,high,Because i will check for updates and never trust things that are about to change.
+167,human | stake:high | skin:high,human,high,high,I would look at the information boards
+168,human | stake:high | skin:high,human,high,high,As part of the job it is important to keep up to date so you can keep people reliably informed.
+169,human | stake:high | skin:high,human,high,high,I would think that Ken would have the most up to date information.
+170,human | stake:high | skin:high,human,high,high,careless
+171,human | stake:high | skin:high,human,high,high,"At an airport, I would probably use multiple information sources in parallel: check the departure screens first (most reliable and up-to-date), confirm via the airline app or email, and only then ask Ken if there is any confusion or discrepancy."
+172,human | stake:high | skin:high,human,high,high,If this is a one off incident then everything will be fine in future
+173,human | stake:high | skin:high,human,high,high,As a staff that should know where the deparature gate is
+174,human | stake:high | skin:high,human,high,high,"I would like to see what other options provide the information I need, and see which is easiest to get the information from."
+175,human | stake:high | skin:high,human,high,high,He should have checked
+176,human | stake:high | skin:high,human,high,high,Because he is a human and should know the up to date info
+177,human | stake:high | skin:high,human,high,high,He made one mistake that was pretty unusual if the flight is usually from there. And the lady should have checked the boards. And asked other people to check as well. It would have had a tannoy asking her to go to the correct gate and board the plane
+178,human | stake:high | skin:high,human,high,high,"I would worry that he has got it wrong, so I'm not sure I would trust the answer that he gives."
+179,human | stake:high | skin:high,human,high,high,"I might ask, but I know that gates do change from time to time, I would find the departure boards a more reliable source of information"
+180,human | stake:high | skin:low,human,low,high,It was not his fault that the system updated; he still seems reliable to me.
+181,human | stake:high | skin:low,human,low,high,He didnt provide the right answer and was on probation so I wouldnt use him
+182,human | stake:low | skin:high,human,high,low,I would only enquire if the information wasn’t readily avaliable
+183,human | stake:low | skin:high,human,high,low,He has a bit of experience he will have some useful information this was unfortunate mistake
+184,human | stake:low | skin:high,human,high,low,He is there to provide help
+185,human | stake:low | skin:high,human,high,low,"He works at the airport, he is more likely to know than me. He is not responsible for later changes"
+186,human | stake:low | skin:high,human,high,low,Because he is a human and should know the up to date info
+187,human | stake:low | skin:high,human,high,low,He made one mistake that was pretty unusual if the flight is usually from there. And the lady should have checked the boards. And asked other people to check as well. It would have had a tannoy asking her to go to the correct gate and board the plane
+188,human | stake:low | skin:high,human,high,low,"I would worry that he has got it wrong, so I'm not sure I would trust the answer that he gives."
+189,human | stake:low | skin:high,human,high,low,"I might ask, but I know that gates do change from time to time, I would find the departure boards a more reliable source of information"
+190,human | stake:low | skin:high,human,high,low,It was not his fault that the system updated; he still seems reliable to me.
+191,human | stake:low | skin:high,human,high,low,He didnt provide the right answer and was on probation so I wouldnt use him
+192,human | stake:low | skin:high,human,high,low,I would only enquire if the information wasn’t readily avaliable
+193,human | stake:low | skin:high,human,high,low,He has a bit of experience he will have some useful information this was unfortunate mistake
+194,human | stake:low | skin:high,human,high,low,He is there to provide help
+195,human | stake:low | skin:high,human,high,low,"He works at the airport, he is more likely to know than me. He is not responsible for later changes"
+196,human | stake:low | skin:high,human,high,low,Displays should be more accurate with more up-to-date information
+197,human | stake:low | skin:high,human,high,low,I'd be more likely to check the screens that are displayed
+198,human | stake:low | skin:high,human,high,low,I would feel the need to check his information by another means so it seems better to avoid asking Ken at all.
+199,human | stake:low | skin:high,human,high,low,This is why Ken is here to help people with problems.
+200,human | stake:low | skin:high,human,high,low,"I might ask him because he works there, but I would still double-check the information on the screens or boards since gate changes can happen"
+201,human | stake:low | skin:high,human,high,low,I always just use the automated screens in the airport to see which departure gate I need to be at.
+202,human | stake:low | skin:high,human,high,low,He should have mentioned that this isn't a guarantee and to check again later.
+203,human | stake:low | skin:high,human,high,low,Based on the information I have about how Ken has acted in the past will make be doubt his judgment.
+204,human | stake:low | skin:high,human,high,low,The departure gates will be on the flight board which I am capable of reading
+205,human | stake:low | skin:high,human,high,low,I would only ask if I had no other means of finding out.
+206,human | stake:low | skin:high,human,high,low,I would always check the flight board for where my flight departs from. I have no need to ask a person.
+207,human | stake:low | skin:high,human,high,low,Ken does not check up to date information to see if anything has changed-
+208,human | stake:low | skin:high,human,high,low,Ken is likely to be correct most of the time but I will check another source of info as well.
+209,human | stake:low | skin:high,human,high,low,"Odd question. When in the process am I asking him? If I’m unaware that he has been mistaken before, I’d have every confidence."
+210,human | stake:low | skin:high,human,high,low,He does not check the information he is giving
+211,human | stake:low | skin:high,human,high,low,He seems to be unreliable.
+212,human | stake:low | skin:high,human,high,low,Ken is clearly unreliable and I would always check the departure boards myself for exactly the reason that gates do change at the last minute all the time.
+213,human | stake:low | skin:high,human,high,low,I tend to confirm things via an app or other sources first before speaking with someone on the desk
+214,human | stake:low | skin:high,human,high,low,Probably quicker and more reliant checking the boards of information
+215,human | stake:low | skin:high,human,high,low,"Ken is there to assist passengers, he is the first point of call if people have enquiries"
+216,human | stake:low | skin:high,human,high,low,I would just look for a member of staff
+217,human | stake:low | skin:high,human,high,low,i would not know ken had an issue with a previous passenger. also the information desk is the first place you would visit if oyuhad an issue
+218,human | stake:low | skin:high,human,high,low,"I tend to use my phone for information like that, or look at the boards."
+219,human | stake:low | skin:high,human,high,low,It is more reliable to check for myself
+220,human | stake:low | skin:high,human,high,low,I usually check the boards or my app to see what gate it is. I have never asked anyone unless there was a delay or issue.
+221,human | stake:low | skin:high,human,high,low,"you cannot base a persons competance based off one incorrect piece of information, he was only working with the information he had."
+222,human | stake:low | skin:high,human,high,low,Because he didn't check Ms. Millers properly so how can i trust him to check mine?
+223,human | stake:low | skin:high,human,high,low,Sometimes the staff may know things before they are updated.
+224,human | stake:low | skin:high,human,high,low,I would normally consult the board for my flight information. I would only consult Ken (or an employee) if something was missing or broken and the information was not readily available.
+225,human | stake:low | skin:high,human,high,low,thats his job why would i not trust him having just met
+226,human | stake:low | skin:high,human,high,low,I check my phone app and the TV screens
+227,human | stake:low | skin:high,human,high,low,"well he's proven to be wrong. im not gonna take that risk that there could be change in information. it is unfortunate that ken was wrong because if there wasn't a change, that would be right but I wouldn't want to take that chance"
+228,human | stake:low | skin:high,human,high,low,I might ask staff for help if they are nearby otherwise I would check the departure board for myself
+229,human | stake:low | skin:high,human,high,low,"If I can't locate the board, then I will ask Ken, otherwise I will refer to the board as it should show the latest gate information"
+230,human | stake:low | skin:high,human,high,low,He doesn't seem to pay attention to detail and double check information.
+231,human | stake:low | skin:high,human,high,low,I believe gave his answer to Miss Miller in good faith. it was unfortunate that the gate number was changed.
+232,human | stake:low | skin:high,human,high,low,i always prefer to do things like this with as little human interaction as possible
+233,human | stake:low | skin:high,human,high,low,because he doesn't always check this is correct
+234,human | stake:low | skin:high,human,high,low,He does not pay close attention to detail and I would be afraid that he gives me the wrong information.
+235,human | stake:low | skin:high,human,high,low,"All circumstancial - if I needed help I would ask, if not I wouldn't"
+236,human | stake:low | skin:high,human,high,low,Ken doesn't seem posted about the changes
+237,human | stake:low | skin:high,human,high,low,I would not know Ken would not necessarily give me the right info
+238,human | stake:low | skin:high,human,high,low,I know he might not check the database.
+239,human | stake:low | skin:high,human,high,low,"I might ask hi but surely there is the internet or the boards up, I may ask someone on a desk"
+240,human | stake:low | skin:high,human,high,low,He showed he's not trustworthy
+241,human | stake:low | skin:high,human,high,low,I cant trust Ken on the information he provides and his current track record with complaints
+242,human | stake:low | skin:high,human,high,low,i would use all resources available
+243,human | stake:low | skin:high,human,high,low,If I were at JFK airport and searching for the departure gate for my flight I would probably ask Ken for help because he works at the information desk and seems to be the person responsible for guiding travelers so I would trust that he knows the usual procedures and the typical gates for flights.
+244,human | stake:low | skin:low,human,low,low,He is not reliable.
+245,human | stake:low | skin:low,human,low,low,departure boards can be confusing so asking a person is more easier
+246,human | stake:low | skin:low,human,low,low,I would rely on the departure screens for the latest information
+249,robot | stake:high | skin:,robot,,high,Not a reliable source
+250,robot | stake:high | skin:,robot,,high,I'm quite capable of reading and understanding airport departure screens
+251,robot | stake:high | skin:,robot,,high,He's just another source of information
+252,robot | stake:high | skin:,robot,,high,I would rather speak to a human
+253,robot | stake:high | skin:,robot,,high,Because it does not get the latest gate information
+254,robot | stake:high | skin:,robot,,high,i would prefer to have a human or a noticeboard
+255,robot | stake:high | skin:,robot,,high,"Because Ken is a robot who has already proved to be unreliable, and I would rather get the information from a human"
+256,robot | stake:high | skin:,robot,,high,Human interaction seems more trusting
+257,robot | stake:high | skin:,robot,,high,The information might not be correct so I would consult other sources for accuracy
+258,robot | stake:high | skin:,robot,,high,"In the same way I would ask a human employee and double check myself, I would ask Ken. I believe in multiple confirmation sources in this type of circumstance."
+259,robot | stake:high | skin:,robot,,high,"Other, an more importantly, direct sources of information are in this situation very obvious and very easily accessible. Also, I'd always verify information given to me by an AI assistant, and this situation would warrant it strongly."
+260,robot | stake:high | skin:,robot,,high,I wouldn't inquire with Ken because it doesn't like this model of robot double-checks information before replying.
+261,robot | stake:high | skin:,robot,,high,I would like to ask human staff.
+262,robot | stake:high | skin:,robot,,high,"I’d likely ask Ken initially, but I would always verify the information independently before acting on it."
+263,robot | stake:high | skin:,robot,,high,I'm not a person who trusts AI information blindly.
+264,robot | stake:high | skin:,robot,,high,depending on if a human is available or not
+265,robot | stake:high | skin:,robot,,high,AI is useless
+266,robot | stake:high | skin:,robot,,high,i wouldnt feel that ken is updated with the information enough and therefore not a reliable source
+267,robot | stake:high | skin:,robot,,high,"I always like to check such information from different sources like the airlines app, the airport departure board, other online information. So even if I did ask Ken, I would still double check the answer."
+268,robot | stake:high | skin:,robot,,high,I would rather speak to someone who can be held accountable
+269,robot | stake:high | skin:,robot,,high,I'll do both.
+270,robot | stake:high | skin:,robot,,high,Based on the example Ken's information is nor reliable
+271,robot | stake:high | skin:,robot,,high,Ken doesn't keep up to date with changes so may not give me accurate information.
+272,robot | stake:high | skin:,robot,,high,I would rather check myself
+273,robot | stake:high | skin:,robot,,high,It's a robot!  I wouldn't trust this to have the latest up to date information.  I would rather speak to a human being - or better still check the board.
+274,robot | stake:high | skin:,robot,,high,If it wasnt going to be up to date and certain i wouldnt bother asking I would just lookout myself for information on notice boards
+275,robot | stake:high | skin:,robot,,high,It does not appear reliable enough to provide the right guidance and most up to date information.
+276,robot | stake:high | skin:,robot,,high,It does not seem to work correctly
+277,robot | stake:high | skin:,robot,,high,It is unreliable
+278,robot | stake:high | skin:,robot,,high,Ken has show he does not check up to date scheduling information and relies on historic information when answering a question.  He is therefore not a reliable source of advice.
+279,robot | stake:high | skin:,robot,,high,I would be more likely to seek out the information myself from information boards
+280,robot | stake:high | skin:,robot,,high,Ken does not give updated information so thus he is not to be trusted
+281,robot | stake:high | skin:,robot,,high,I would always check my phone against gate numbers and match it with boards in the airport
+282,robot | stake:high | skin:,robot,,high,Because the robot is unreliable
+283,robot | stake:high | skin:,robot,,high,Ken seems to be unreliable
+284,robot | stake:high | skin:,robot,,high,I will never willingly interact with any kind of robot/ chatbot/ AI if there is another option available as in my experience they often get information wrong
+285,robot | stake:high | skin:,robot,,high,Because the robot relies on past information and this could change so it could be wrong
+286,robot | stake:high | skin:,robot,,high,I would rather speak to a human being who is more likey to get more up to date training and information.
+287,robot | stake:high | skin:,robot,,high,"I would ask Ken but i would also check the departure boards for any last minute changes, knowing that they can happen"
+288,robot | stake:high | skin:,robot,,high,I would not be able to trust ken
+289,robot | stake:high | skin:,robot,,high,I would prefer to talk to a human if possible although humans do also make mistakes
+290,robot | stake:high | skin:,robot,,high,I always check the information board myself to confirm.
+291,robot | stake:high | skin:,robot,,high,I HAVE NO INTENTION OF ENGAGING WITH CURRENT SUNAME OF RUBBISH THAT WE MUST HAVE DIGITAL ID. USE AI. TALK TO ROBOTS. HAVE A FRIDGE AND COOKER YOU CAN TALK TO WHEN YOU ARE ON HOLIDAY IN SPAIN. ITS ALL ABOUT CONTROL AND AS LONG AS I HAVE A WORKING BRAIN I WANT NONE OF IT. I WOULD TELL KEN TO BIN HIMSELF AND FIND A HUMAN WHO CAN CHECK PROPERLY FOR ME
+292,robot | stake:high | skin:,robot,,high,"I don't want to deal with a robot, it makes me feel somewhat uncomfortable not speaking to a human,"
+293,robot | stake:high | skin:,robot,,high,I should always double-check before flight
+294,robot | stake:high | skin:,robot,,high,He got the information wrong so he's not fully trustworthy
+295,robot | stake:high | skin:,robot,,high,I would prefer to trust the boards and an actual live person than a robot.
+296,robot | stake:high | skin:,robot,,high,"After the incident where Ken gave the wrong information to the customer, I cannot fully rely on the information provided by Ken."
+297,robot | stake:high | skin:,robot,,high,it is a robot with limited thinking. (processing)
+298,robot | stake:high | skin:,robot,,high,i would check also to see if the gate had changed
+299,robot | stake:high | skin:,robot,,high,I will still use Ken but I will double check and confirm with my own eyes.
+300,robot | stake:high | skin:,robot,,high,"If it is the closest available info , I would ask and I would trust that the robot would have all the up to date information."
+301,robot | stake:high | skin:,robot,,high,I may still do it but would probarly trust the boards and announcments
+302,robot | stake:high | skin:,robot,,high,I'd like to double check
+303,robot | stake:high | skin:,robot,,high,I don't trust AI
+304,robot | stake:high | skin:,robot,,high,I would like to confirm from other sources to avoid missing my flight
+305,robot | stake:high | skin:,robot,,high,I prefer to check the board for the latest info
+306,robot | stake:high | skin:,robot,,high,I would rather look at the departure board with accurate information or ask an airport official who is human
+307,robot | stake:high | skin:,robot,,high,It's not a reliable source for current flight details
+308,robot | stake:high | skin:,robot,,high,Ken cannot be trusted to have the latest information to hand.
+309,robot | stake:high | skin:,robot,,high,I would prefer a person or ideally a board with the information written down so there was no confusion or miscommunication.
+310,robot | stake:high | skin:,robot,,high,I would rather ask a human
+311,robot | stake:high | skin:,robot,,high,"I could not rely on Ken to give me reliable up to date information. And he seems to be unaware that the information he has access to is not always correct. So if I would have to double check his information anyway, I might as well find another source of information from the start."
+312,robot | stake:low | skin:,robot,,low,"I prefer to check information myself, and do not like interacting with these kind of services for important information. I don't trust them to be reliable."
+313,robot | stake:low | skin:,robot,,low,"I don't need to as the board, the telecom and other passengers and staff help me"
+314,robot | stake:low | skin:,robot,,low,"I wouldn't trust a robot to do anything. You can't trust an LLM to get anything right, so why would I trust an airport robot?"
+315,robot | stake:low | skin:,robot,,low,Proven to be incorrect
+316,robot | stake:low | skin:,robot,,low,He got the information wrong I’d more likely consult the departure boards or look online
+317,robot | stake:low | skin:,robot,,low,Because he can’t be trusted to be reliable
+318,robot | stake:low | skin:,robot,,low,I would inquire but still double check after
+319,robot | stake:low | skin:,robot,,low,"Since it seems you have to double-check Ken, you may as well just keep an eye on an app or other information boards around the airport."
+320,robot | stake:low | skin:,robot,,low,I feel it would be a waste of time as I would still have to check with other sources anyway.
+321,robot | stake:low | skin:,robot,,low,Probably going to get it wrong so ill check myself on the flight board
+322,robot | stake:low | skin:,robot,,low,Seems the robot does not get up to date on the flight departures
+323,robot | stake:low | skin:,robot,,low,Because I prefer human interaction rather than from a robot
+324,robot | stake:low | skin:,robot,,low,Ken doesn't seem up to date if things change
+325,robot | stake:low | skin:,robot,,low,I dont trust robots or AI
+326,robot | stake:low | skin:,robot,,low,I would use Ken and other sources to confirm
+327,robot | stake:low | skin:,robot,,low,I’d be interested in his answer but I would double check for myself
+328,robot | stake:low | skin:,robot,,low,If the system is there i might try it but i would check the answer against other information available on signs at the airport
+329,robot | stake:low | skin:,robot,,low,"It would be a quick response, with little messing around or hopefully waiting."
+330,robot | stake:low | skin:,robot,,low,I would rather use the departure boards to find out the information.
+331,robot | stake:low | skin:,robot,,low,Service boards would be more correct and cannot guarantee that Ken has been updated with correct information.   AI cannot  be classed as 100% correct.
+332,robot | stake:low | skin:,robot,,low,Because Ken doesn't have reliable information
+333,robot | stake:low | skin:,robot,,low,I would just keep checking the boards
+334,robot | stake:low | skin:,robot,,low,Based on the scenario Ken isn't trustworthy
+335,robot | stake:low | skin:,robot,,low,Prefer human interaction
+336,robot | stake:low | skin:,robot,,low,From what I've observed in my real life I've found AI to be incredibly unrealiable so I don't make a point of trusting or using it
+337,robot | stake:low | skin:,robot,,low,I’d rather speak to an actual human
+338,robot | stake:low | skin:,robot,,low,they don't seem to provide live information just what is typical
+339,robot | stake:low | skin:,robot,,low,I would rather just check the information myself on the boards to ensure I was getting the most accurate and up to date information.
+340,robot | stake:low | skin:,robot,,low,Departure boards will offer all of the information needed
+341,robot | stake:low | skin:,robot,,low,Not reliable
+342,robot | stake:low | skin:,robot,,low,I would rather check the gate number myself on the information boards than rely on Ken
+343,robot | stake:low | skin:,robot,,low,Because the information might be out of date
+344,robot | stake:low | skin:,robot,,low,"Double check on my own information, see if it matches or do I need to check again"
+345,robot | stake:low | skin:,robot,,low,Prefer human interaction where possible
+346,robot | stake:low | skin:,robot,,low,"I wouldn't approach a robot. Also, I have evidence that it already gave the wrong information to a traveller."
+347,robot | stake:low | skin:,robot,,low,I would rather talk with a human who would be aware of any changes etc
+348,robot | stake:low | skin:,robot,,low,It is unreliable
+349,robot | stake:low | skin:,robot,,low,Because there's a chance he'd give me the wrong information and I'd miss my flight
+350,robot | stake:low | skin:,robot,,low,situations changed outside of the robots control
+351,robot | stake:low | skin:,robot,,low,Im happy to give it a try and ask Ken at the JFQ airport see what says even after the mentioned encounter.
+352,robot | stake:low | skin:,robot,,low,I have lways used the departure boards. I have never asked a person
+353,robot | stake:low | skin:,robot,,low,Knowing that Ken is a robot and has a likely hood of giving a wrong answer I would not ask Ken
+354,robot | stake:low | skin:,robot,,low,I would not particularly want to engage with an AI at a desk and would rather chance it myself reading information on a screen / departures board or my phone.
+355,robot | stake:low | skin:,robot,,low,"Even though Ken was incorrect in this instance, they would usually provide correct information"
+356,robot | stake:low | skin:,robot,,low,Because it would normally be quicker to ask for directions from something that is programmed to give you the right answer.
+357,robot | stake:low | skin:,robot,,low,Lack of accuracy without having to double check elsewhere
+358,robot | stake:low | skin:,robot,,low,I always double check because the flight information board has changed my flight's info once last moment
+359,robot | stake:low | skin:,robot,,low,Based on the scenerio that we have just read  i am not inclined to trust Ken the robot
+360,robot | stake:low | skin:,robot,,low,I always rely on the board
+361,robot | stake:low | skin:,robot,,low,"Where digital information is available as 'live' so to speak, for instance on screens at airports, railway stations, etc, I would rely mainly on those rather than ask a human person and/or robot assistant. Far less reliable in most situations as they are getting information second hand from elsewhere and it's not 100% reliable as changes can occur at very short notice."
+362,robot | stake:low | skin:,robot,,low,Simply couldn't' trust Ken
+363,robot | stake:low | skin:,robot,,low,He provided the wrong information previously
+364,robot | stake:low | skin:,robot,,low,A human assistant is more likely to have up to date information rather than relying on what usually happens.
+365,robot | stake:low | skin:,robot,,low,I'd just check my phone for real time updates
+366,robot | stake:low | skin:,robot,,low,Why would I ask a robot when departure gates are listed on screens all over the airport?
+367,robot | stake:low | skin:,robot,,low,"after reading this scenario i have lost faith in ken, his information is not updated regularly so the information he gives out is not reliable."
+368,robot | stake:low | skin:,robot,,low,I would like to hope a human would give me the right answer
+369,robot | stake:low | skin:,robot,,low,The departure gates are displayed on the flight boards
+370,robot | stake:low | skin:,robot,,low,I would not trust the answer and would check the board myself
+371,robot | stake:low | skin:,robot,,low,Robots ( computers) are only as good as the data it has received by human input. In this case Mrs Miller was given the wrong information as the robot (Ken) had not been updated. To be fair the flight departure board could have been wrong too but I would prefer to check these things myself and not rely on AI
+372,robot | stake:low | skin:,robot,,low,I don’t trust robots I would rather just find the information out myself if it is clearly available on a departure board etc (which I assume it is if she found the right gate in the end)

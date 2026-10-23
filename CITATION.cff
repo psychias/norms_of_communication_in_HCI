@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use these data or materials, please cite the manuscript and this repository."
+title: "Norms of communication in human-AI interaction: skin in the game and stake shape evaluations of human and artificial agents (replication package)"
+type: dataset
+authors:
+  - family-names: Psychias
+    given-names: Stylianos
+    affiliation: "Digital Society Initiative, University of Zurich"
+    orcid: "https://orcid.org/0009-0007-3484-8586"
+  - family-names: Kierysch
+    given-names: Jana
+    affiliation: "Digital Society Initiative, University of Zurich"
+  - family-names: Kandul
+    given-names: Serhiy
+    affiliation: "Digital Society Initiative, University of Zurich"
+  - family-names: Hazan
+    given-names: Danit
+    affiliation: "Tel Aviv University"
+  - family-names: Christen
+    given-names: Markus
+    affiliation: "Digital Society Initiative, University of Zurich"
+    orcid: "https://orcid.org/0000-0001-8378-9366"
+repository-code: "https://github.com/psychias/norms_of_communication_in_HCI"
+license: CC-BY-4.0
+keywords:
+  - human-AI interaction
+  - skin in the game
+  - norms of assertion
+  - trust and reliance
+  - outcome effect
+  - responsibility attribution
+  - vignette experiment
+preferred-citation:
+  type: article
+  title: "Norms of communication in human-AI interaction: skin in the game and stake shape evaluations of human and artificial agents"
+  authors:
+    - family-names: Psychias
+      given-names: Stylianos
+    - family-names: Kierysch
+      given-names: Jana
+    - family-names: Kandul
+      given-names: Serhiy
+    - family-names: Hazan
+      given-names: Danit
+    - family-names: Christen
+      given-names: Markus
+  journal: "Scientific Reports"
+  year: 2026
+  notes: "Manuscript under review."

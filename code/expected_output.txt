@@ -1,0 +1,114 @@
+== A. Holm-Bonferroni over the exploratory family ==
+  AI vs human: availability_info         p=3.09e-23  Holm-adj=5.56e-22  SURVIVES
+  forgiveness: stake                     p=8.72e-09  Holm-adj=1.48e-07  SURVIVES
+  forgiveness: agent                     p=4.59e-07  Holm-adj=7.35e-06  SURVIVES
+  AI vs human: checked_database          p=0.000114  Holm-adj=0.00171  SURVIVES
+  AI vs human: awareness                 p=0.000521  Holm-adj=0.0073  SURVIVES
+  composite: agent                       p=0.000561  Holm-adj=0.0073  SURVIVES
+  respKen: agent                         p=0.000694  Holm-adj=0.00833  SURVIVES
+  warning DV4: stake                     p=0.000733  Holm-adj=0.00833  SURVIVES
+  gap vs 0, AI                           p=0.000794  Holm-adj=0.00833  SURVIVES
+  within-AI stake: connected_database    p=0.00699  Holm-adj=0.063  --
+  gap: agent omnibus                     p=0.0121  Holm-adj=0.0967  --
+  within-AI stake: justifiability        p=0.0351  Holm-adj=0.245  --
+  gap vs 0, HLS                          p=0.0398  Holm-adj=0.245  --
+  within-AI stake: checked_database      p=0.0438  Holm-adj=0.245  --
+  within-AI stake: forgiveness           p=0.0484  Holm-adj=0.245  --
+  warning DV4: agent                     p=0.124  Holm-adj=0.372  --
+  AI vs human: connected_database        p=0.212  Holm-adj=0.423  --
+  gap vs 0, HHS                          p=0.794  Holm-adj=0.794  --
+
+== B. Responsibility gap vs 0, low-stake cells only ==
+  HHS: M=-0.30, t(60)=-1.15, p=0.2544, p_bonf3=0.7633
+  HLS: M=-0.91, t(54)=-2.79, p=0.0072, p_bonf3=0.0216
+  AI: M=-1.11, t(60)=-3.27, p=0.0018, p_bonf3=0.0053
+
+== C. Acceptability floor-composition logistic (LR tests) ==
+  floor rate = 0.468
+  stake:       chi2(1)=1.06, p=0.3032
+  agent:       chi2(2)=0.70, p=0.7038
+  interaction: chi2(2)=1.66, p=0.4369
+
+== D. Warning obligation (DV4) 2x3 ANOVA ==
+  C(stake, Sum)                  F=11.61, p=0.0007325, eta2=0.032
+  C(acond, Sum)                  F=2.10, p=0.124, eta2=0.012
+  C(stake, Sum):C(acond, Sum)    F=1.20, p=0.3013, eta2=0.007
+  M_high=6.05 (SD=0.99), M_low=5.63 (SD=1.31), d=0.35
+
+== E. TOST equivalence, HLS vs AI, bound d=0.4 ==
+  reliance       : d=0.100, TOST p=0.0114 -> EQUIVALENT
+  acceptability  : d=-0.148, TOST p=0.0276 -> EQUIVALENT
+  justifiability : d=0.235, TOST p=0.1036 -> not established
+  forgiveness    : d=0.414, TOST p=0.5441 -> not established
+
+== E2. Equivalence-bound sensitivity (tightest passing bound, HLS vs AI) ==
+  reliance       : observed d=+0.100, tightest equivalence bound d=0.32
+  acceptability  : observed d=-0.148, tightest equivalence bound d=0.37
+  justifiability : observed d=+0.235, tightest equivalence bound d=0.46
+  forgiveness    : observed d=+0.414, tightest equivalence bound d=0.64
+
+== G. Within-stake severity -> forgiveness (verification constant) ==
+  stake=high: r(perceived severity, forgiveness) = -0.207, p=0.0057, n=177
+  stake=low : r(perceived severity, forgiveness) = -0.209, p=0.0050, n=178
+
+== G2. Within-stake severity -> Ken responsibility (verification constant) ==
+  stake=high: r = +0.169, p=0.0245, n=177
+  stake=low : r = +0.058, p=0.4427, n=178
+
+== I. Within-AI construal -> responsibility (framing-sensitivity proxy) ==
+  r(connectivity construal, responsible_ken) = +0.037, p=0.6830, n=124
+
+== H. Inter-item correlation matrix (pairwise complete) ==
+                    acceptability  justifiability  reliance  warning_obligation  forgiveness  responsible_ken  responsible_miller  checked_database  availability_info
+acceptability                1.00            0.33      0.27               -0.16         0.14            -0.03                0.02              0.44              -0.01
+justifiability               0.33            1.00      0.29               -0.09         0.46            -0.12                0.08              0.25              -0.12
+reliance                     0.27            0.29      1.00               -0.10         0.37            -0.13                0.03              0.25              -0.00
+warning_obligation          -0.16           -0.09     -0.10                1.00        -0.15             0.07                0.06             -0.05              -0.02
+forgiveness                  0.14            0.46      0.37               -0.15         1.00            -0.18                0.13              0.17              -0.03
+responsible_ken             -0.03           -0.12     -0.13                0.07        -0.18             1.00               -0.17             -0.16               0.25
+responsible_miller           0.02            0.08      0.03                0.06         0.13            -0.17                1.00              0.07               0.02
+checked_database             0.44            0.25      0.25               -0.05         0.17            -0.16                0.07              1.00              -0.17
+availability_info           -0.01           -0.12     -0.00               -0.02        -0.03             0.25                0.02             -0.17               1.00
+
+== F. Age/gender moderation (de-identified demographics) ==
+  matched 355/355; age M=43.32, SD=13.13
+  Agent x Age,    acceptability  : F=0.42, p=0.6587
+  Agent x Age,    justifiability : F=0.77, p=0.4616
+  Agent x Age,    reliance       : F=0.15, p=0.8647
+  Agent x Age,    forgiveness    : F=2.99, p=0.0517
+  Agent x Gender, acceptability  : F=2.36, p=0.0962
+  Agent x Gender, justifiability : F=0.09, p=0.9176
+  Agent x Gender, reliance       : F=1.16, p=0.3154
+  Agent x Gender, forgiveness    : F=0.70, p=0.4990
+
+== J. Bayesian evidence for outcome (stake) effect, high vs low (JZS r=0.707) ==
+  humans acceptability  : t=-0.10, BF10=  0.14, BF01=  6.92  -> null (BF01>3)
+  humans justifiability : t=-1.57, BF10=  0.46, BF01=  2.17  -> inconclusive
+  humans reliance       : t=-1.22, BF10=  0.29, BF01=  3.46  -> null (BF01>3)
+  AI     acceptability  : t=+3.50, BF10= 41.23, BF01=  0.02  -> alt (BF10>3)
+  AI     justifiability : t=+2.13, BF10=  1.47, BF01=  0.68  -> inconclusive
+  AI     reliance       : t=+0.63, BF10=  0.23, BF01=  4.36  -> null (BF01>3)
+
+== K. Tobit (left-censored at floor=1) for acceptability: LR tests ==
+  Stake x Agent interaction: chi2(2)=5.55, p=0.0623  (ANOVA p=.011)
+  Stake main (added):        chi2(1)=3.23, p=0.0723  (ANOVA p=.035)
+  Agent main (added):        chi2(2)=0.88, p=0.6440  (ANOVA p=.416)
+
+== L. Bayesian evidence for HLS vs AI (mirror of the TOST equivalence table) ==
+  reliance       : BF10=  0.19, BF01=  5.30  -> equivalence (BF01>3)
+  acceptability  : BF10=  0.26, BF01=  3.81  -> equivalence (BF01>3)
+  justifiability : BF10=  0.65, BF01=  1.54  -> inconclusive
+  forgiveness    : BF10= 15.42, BF01=  0.06  -> difference (BF10>3)
+
+== M. Fisher exact on qualitative expectation-validation (reported counts) ==
+  C1 verify-independently : high 37/120=0.31, low 32/111=0.29, OR=1.10, p=0.775
+  C2 distrust/unreliable  : high 42/120=0.35, low 53/111=0.48, OR=0.59, p=0.061
+  C6 re-engage            : high 26/120=0.22, low 20/111=0.18, OR=1.26, p=0.514
+
+== N. Composite leniency reliability (acceptability, justifiability, reliance, forgiveness) ==
+  Cronbach alpha=0.639 (95% boot CI [0.571, 0.698])
+  McDonald omega=0.651, avg inter-item r=0.311
+
+== O. Agent manipulation-check proxy (comprehension x assigned agent) ==
+  correct agent classification: 355/355 = 100.0%
+  convergent DV7 availability_info AI vs human: d=-1.19
