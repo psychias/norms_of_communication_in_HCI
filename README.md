@@ -37,6 +37,8 @@ materials/
   vignettes_and_measures.md       six vignettes, comprehension and manipulation checks, all item wordings
   survey_instrument_qualtrics_export.docx   the complete survey as administered
   preregistration.md              registration details and confirmatory vs. exploratory split
+manuscript/
+  manuscript.pdf                  the manuscript as submitted to Scientific Reports (revised version, 24 October 2026)
 CITATION.cff, LICENSE (CC BY 4.0 for data, materials and documentation), requirements.txt
 ```
 
