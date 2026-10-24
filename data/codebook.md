@@ -63,11 +63,33 @@ all 355 rows matched a unique record).
 | `education` | `less than high school`, `high school / GED`, `some college`, `2-year degree (associate)`, `4-year degree (BA, BS)`, `master's degree`, `doctoral degree`, `professional degree` |
 | `native_language` | `English`, `other` |
 
-Marginals in this file: age M = 43.3 (SD = 13.1, range 20-80); 198 female, 152 male, 3 non-binary / third
-gender, 2 prefer not to say; 336 native English speakers. The sample description in the manuscript was
-compiled by the authors from the survey export at the time of analysis and differs from these marginals by
-one to three participants in some categories; the moderation analyses in section F of
-`code/supplementary_analyses.py` use this file.
+Category labels follow the answer options of the survey instrument in their original order
+(`materials/survey_instrument_qualtrics_export.docx`, block "Demographics").
+
+### Note on the sample description in the manuscript
+
+The sample description in the Methods section of the submitted manuscript was compiled separately from the
+survey export at the time of writing and differs from the marginals of this file by one to three participants
+in some categories. The values in this file are the ones that correspond to the 355 participants in
+`assertion_study_dataset.csv` (every row matched one unique raw record) and should be treated as the
+authoritative description of the analytic sample. The discrepancy has no bearing on any reported test: no
+analysis in the manuscript conditions on education or native language, and the age/gender moderation
+analyses (section F of `code/supplementary_analyses.py`, Supplementary Information) are computed from this
+file. The authors will align the Methods paragraph with these values at the next opportunity.
+
+| Measure | Manuscript (Methods) | This file (N = 355) |
+|---|---|---|
+| Age, M (SD), range | 43.14 (12.96), 20-80 | 43.32 (13.13), 20-80 |
+| Gender: female / male / non-binary or third gender / prefer not to say | 199 / 151 / 3 / 2 | 198 / 152 / 3 / 2 |
+| Native language: English / other | 336 / 19 | 336 / 19 |
+| 4-year degree (BA, BS) | 138 | 136 |
+| High school / GED | 62 | 65 |
+| Master's degree | 60 | 60 |
+| Some college | 56 | 56 |
+| Doctoral degree | 14 | 14 |
+| 2-year degree (associate) | 13 | 14 |
+| Professional degree | 8 | 6 |
+| Less than high school | 4 | 4 |
 
 ## Citation
 
